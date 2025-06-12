@@ -1,6 +1,6 @@
 package ex_03_Java_Literals;
 
-public class Lab034_Chsr_Literal {
+public class Lab034_Char_Literal {
     public static void main(String[] args) {
         char c1 = 'A'; // A to Z, a-z, !@#$%^&*()_+
         char c2 = 'B';

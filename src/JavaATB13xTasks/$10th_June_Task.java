@@ -14,5 +14,8 @@ public class $10th_June_Task {
         System.out.printf("%d x %d = %d%n", a, 9, a * 9);
         System.out.printf("%d x %d = %d%n", a, 10, a * 10);
 
+        System.out.printf("%d x %d = %d", a, 1, a).println();
+        System.out.printf("%d x %d = %d", a, 2, a * 2).println();
+        System.out.printf("%d x %d = %d", a, 3, a * 3).println();
     }
 }
