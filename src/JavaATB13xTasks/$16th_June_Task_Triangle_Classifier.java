@@ -24,7 +24,7 @@ public class $16th_June_Task_Triangle_Classifier {
 
         if (x == y && y == z) {
             System.out.println("Equilateral Triangle");
-        } else if (x == y | y == z | z == x) {
+        } else if (x == y || y == z || z == x) {
             System.out.println("Isosceles Triangle");
         } else {
             System.out.println("Scalene Triangle");
