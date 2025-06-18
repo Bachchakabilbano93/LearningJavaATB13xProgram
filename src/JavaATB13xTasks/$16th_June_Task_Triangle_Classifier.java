@@ -18,6 +18,7 @@ public class $16th_June_Task_Triangle_Classifier {
         int y = scanner.nextInt();
         System.out.println("Enter 3rd side");
         int z = scanner.nextInt();
+        scanner.close();
         /*int x = 5;
         int y = 6;
         int z = 7;*/
