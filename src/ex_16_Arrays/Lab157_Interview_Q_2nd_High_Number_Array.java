@@ -10,5 +10,7 @@ public class Lab157_Interview_Q_2nd_High_Number_Array {
         Arrays.sort(numbers);
         System.out.println(numbers[numbers.length-2]);
         System.out.println(numbers[numbers.length-3]);
+
+        //Without using the sort function
     }
 }
