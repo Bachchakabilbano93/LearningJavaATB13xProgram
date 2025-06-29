@@ -31,9 +31,9 @@ public class $25th_June_Task5_Bonus_Calculation {
         } else if(yoe >= 1 && yoe <=3){
             bonus = bonus + salary * (5.0 / 100);
         } else if (yoe >= 4 && yoe <= 6){
-            bonus = bonus + salary * (double)(10.0 / 100);
+            bonus = bonus + salary * (10.0 / 100);
         } else if (yoe > 6){
-            bonus = bonus + salary * (double)(15.0 / 100);
+            bonus = bonus + salary * (15.0 / 100);
         }
         return bonus;
     }
