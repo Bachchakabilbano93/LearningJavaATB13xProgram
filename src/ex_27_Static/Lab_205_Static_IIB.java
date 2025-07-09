@@ -22,4 +22,12 @@ class P{
     static int a = 10;
     int b = 10;
 
+    static {
+        // This is static block.
+        // This is called whenever a class a loaded.
+        System.out.println("Hi, this is called, becoz, class is loaded");
+        // The usage of static block is if you want to call some of the methods, like calling a database connection, calling an Excel collection
+
+    }
+
 }
