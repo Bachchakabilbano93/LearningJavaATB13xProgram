@@ -1,4 +1,4 @@
-package ex_32_Collection_Framework_DSA;
+package ex_32_Collection_Framework_DSA.LIST;
 
 import java.util.ArrayList;
 import java.util.Iterator;

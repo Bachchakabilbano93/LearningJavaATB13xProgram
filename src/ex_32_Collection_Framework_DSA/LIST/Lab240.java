@@ -1,4 +1,4 @@
-package ex_32_Collection_Framework_DSA;
+package ex_32_Collection_Framework_DSA.LIST;
 
 public class Lab240 {
     public static void main(String[] args) {
