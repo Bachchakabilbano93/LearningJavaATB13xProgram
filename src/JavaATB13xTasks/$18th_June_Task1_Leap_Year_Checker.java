@@ -16,7 +16,7 @@ public class $18th_June_Task1_Leap_Year_Checker {
 
         if(year%4 == 0){
             System.out.println(year + " is a leap year");
-        } else if (year%400 == 0 && year%100 ==0){
+        } else if (year%400 == 0 && year%100 != 0){
             System.out.println(year + " is a leap year");
         }else {
             System.out.println(year + " is not a leap year");
