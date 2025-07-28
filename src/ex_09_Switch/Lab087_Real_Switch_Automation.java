@@ -17,7 +17,7 @@ public class Lab087_Real_Switch_Automation {
         browser  = browser.toLowerCase();
 
         switch (browser){
-            case  "chrome":
+            case "chrome":
                 System.out.println("Starting the chrome");
                 System.out.println("........");
                 System.out.println("TC1");
